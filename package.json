@@ -1,0 +1,22 @@
+{
+  "name": "la_census",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A data science graphic representation of LA census data",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "typescript": "^3.5.3",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "eslint": "^6.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Westfall",
+  "license": "ISC"
+}
